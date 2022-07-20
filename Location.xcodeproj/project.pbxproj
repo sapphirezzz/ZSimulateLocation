@@ -13,6 +13,7 @@
 		1408752B2888411700A15DC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140875292888411700A15DC2 /* Main.storyboard */; };
 		1408752D2888411800A15DC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1408752C2888411800A15DC2 /* Assets.xcassets */; };
 		140875302888411800A15DC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1408752E2888411800A15DC2 /* LaunchScreen.storyboard */; };
+		14087538288841A600A15DC2 /* Location.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 14087537288841A600A15DC2 /* Location.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1408752C2888411800A15DC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1408752F2888411800A15DC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		140875312888411800A15DC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14087537288841A600A15DC2 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				140875232888411700A15DC2 /* AppDelegate.swift */,
 				140875252888411700A15DC2 /* SceneDelegate.swift */,
 				140875272888411700A15DC2 /* ViewController.swift */,
+				14087537288841A600A15DC2 /* Location.gpx */,
 				140875292888411700A15DC2 /* Main.storyboard */,
 				1408752C2888411800A15DC2 /* Assets.xcassets */,
 				1408752E2888411800A15DC2 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				140875302888411800A15DC2 /* LaunchScreen.storyboard in Resources */,
 				1408752D2888411800A15DC2 /* Assets.xcassets in Resources */,
+				14087538288841A600A15DC2 /* Location.gpx in Resources */,
 				1408752B2888411700A15DC2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
